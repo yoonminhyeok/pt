@@ -8,7 +8,7 @@ import java.sql.Statement;
 
 public class Pt_DBUtil {
 	
-	//Oracle DB연결을 util로 만들었음
+	//Oracle DB연결을 util로 만들었음 변경되라고 좀 ;;;;; 하하하ㅏ하하하하하ㅏ하핳하하하하ㅏ하
 	public static Connection getConnection() {
 		Connection conn= null;
 		String url= "jdbc:oracle:thin:@192.168.0.57:1521:XE";
